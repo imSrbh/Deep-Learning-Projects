@@ -1,8 +1,10 @@
 # Deep-Learning-Projects
 
 Create two folders after Cloning the repo
+'''
 1.Output
 2.Video
+'''
 then put the sample video into Video Folder
 
 ### USAGE
